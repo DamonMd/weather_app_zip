@@ -8288,3 +8288,10 @@ Processing by ForecastsController#new as HTML
   Parameters: {"utf8"=>"✓", "id"=>"20009", "commit"=>"Search"}
   Rendered forecasts/new.html.erb within layouts/application (0.1ms)
 Completed 200 OK in 395ms (Views: 36.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=20009&commit=Search" for ::1 at 2015-07-08 15:47:07 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"20009", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 754ms (Views: 184.9ms | ActiveRecord: 0.0ms)

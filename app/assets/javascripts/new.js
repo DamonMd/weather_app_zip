@@ -1,6 +1,5 @@
 $( document ).ready(function(){
   // Sample options from API under "weather" section //
-
   // Clear
   // Rain
   // Mostly Cloudy
@@ -20,7 +19,5 @@ $( document ).ready(function(){
   } else if(weather === "Snow"){
     weather_page.style.backgroundImage = "url(http://feelgrafix.com/data_images/out/15/889736-snow-wallpaper.jpg)"
   }
-
-
 
 })

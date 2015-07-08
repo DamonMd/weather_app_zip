@@ -1,22 +1,13 @@
 
 <div class="search">
-<h2>Welcome to Your Local Weather Generator!</h2>
-<h3>Simply enter in the zip code of the location you wish to know more about</h3>
+  <h2>Welcome to Your Local Weather Generator!</h2>
+  <h3>Simply enter in the zip code of the location you wish to know more about</h3>
 
 
-
-<!-- <div class = "search">
-  <form action="/forecasts/:id" method="get">
-    <label for="zip">Enter your Zip Code Here:</label>
-    <input id="input" name="id" placeholder="ex: 20009"></input>
-    <input type="submit" value="Get Forecast">
-  </form>
-</div> -->
-
-<%= form_tag("/forecasts/new", method: "get") do %>
-  <%= label_tag(:id, "Zip:") %>
-  <%= text_field_tag(:id) %>
-  <%= submit_tag("Search") %>
-<% end %>
+  <%= form_tag("/forecasts/new", method: "get") do %>
+    <%= label_tag(:id, "Zip:") %>
+    <%= text_field_tag(:id) %>
+    <%= submit_tag("Search") %>
+  <% end %>
 
 </div>
