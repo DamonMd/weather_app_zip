@@ -7619,3 +7619,594 @@ Processing by ForecastsController#new as HTML
   Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
   Rendered forecasts/new.html.erb within layouts/application (0.1ms)
 Completed 200 OK in 436ms (Views: 32.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-07-08 14:18:30 -0400
+Processing by ForecastsController#index as HTML
+  Rendered forecasts/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 855ms (Views: 833.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=20009&commit=Search" for ::1 at 2015-07-08 14:18:37 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"20009", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 643ms (Views: 82.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=37178&commit=Search" for ::1 at 2015-07-08 14:19:02 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"37178", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 35913ms (Views: 155.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=37178&commit=Search" for ::1 at 2015-07-08 14:19:38 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"37178", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 274ms (Views: 59.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:19:59 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 809ms (Views: 38.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=63101&commit=Search" for ::1 at 2015-07-08 14:21:27 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"63101", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 532ms (Views: 116.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-c979720e6a105e22c9aa7640b16c64371704e565eda2abddf28bb53fca882e1c.css?body=1" for ::1 at 2015-07-08 14:21:28 -0400
+
+
+Started GET "/" for ::1 at 2015-07-08 14:40:54 -0400
+Processing by ForecastsController#index as HTML
+  Rendered forecasts/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 118ms (Views: 108.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-1b692d4d1f85360f4b14811bd2747477f47d3d01cd196d6f20f474e773f9aaf7.css?body=1" for ::1 at 2015-07-08 14:40:54 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 14:40:54 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 14:40:54 -0400
+
+
+Started GET "/assets/new.self-4e9e2c333bc3bd2777c08ccb38fd828e8c2513f27eb3bff40a88233a123ca5d6.js?body=1" for ::1 at 2015-07-08 14:40:54 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 14:40:54 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 14:40:54 -0400
+
+
+Started GET "/assets/cherry%20blossoms.jpg" for ::1 at 2015-07-08 14:40:55 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=20009&commit=Search" for ::1 at 2015-07-08 14:40:59 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"20009", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 374ms (Views: 52.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=20009&commit=Search" for ::1 at 2015-07-08 14:41:17 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"20009", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 516ms (Views: 109.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 14:41:18 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 14:41:18 -0400
+
+
+Started GET "/assets/application.self-0a3eacf787aa12253077d3045db885ba3232875dfa9e4b0936b4257a849062a5.css?body=1" for ::1 at 2015-07-08 14:41:18 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 14:41:18 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 14:41:18 -0400
+
+
+Started GET "/assets/new.self-4e9e2c333bc3bd2777c08ccb38fd828e8c2513f27eb3bff40a88233a123ca5d6.js?body=1" for ::1 at 2015-07-08 14:41:18 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=20009&commit=Search" for ::1 at 2015-07-08 14:41:26 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"20009", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 469ms (Views: 47.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 14:41:26 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 14:41:26 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 14:41:27 -0400
+
+
+Started GET "/assets/application.self-91f9f9c43387efea3286aa7182963258f3ecccc65886f94db938b4c58f976ae3.css?body=1" for ::1 at 2015-07-08 14:41:27 -0400
+
+
+Started GET "/assets/new.self-4e9e2c333bc3bd2777c08ccb38fd828e8c2513f27eb3bff40a88233a123ca5d6.js?body=1" for ::1 at 2015-07-08 14:41:27 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 14:41:27 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:41:34 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 421ms (Views: 27.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:41:51 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 313ms (Views: 34.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:42:57 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 344ms (Views: 55.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-78100eafed065a8e086987f736c1f67f41db7c28cef36eb4a22725787af762ed.css?body=1" for ::1 at 2015-07-08 14:42:58 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:43:08 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 475ms (Views: 122.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-095137d29bfaa36be4d1b4523d4f8114d44e4875c981f5aa36f5c556831efd53.css?body=1" for ::1 at 2015-07-08 14:43:09 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 14:43:09 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 14:43:09 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 14:43:09 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 14:43:09 -0400
+
+
+Started GET "/assets/new.self-4e9e2c333bc3bd2777c08ccb38fd828e8c2513f27eb3bff40a88233a123ca5d6.js?body=1" for ::1 at 2015-07-08 14:43:09 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:45:17 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 508ms (Views: 174.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-85aff8daa88dfc50ae71e0c5d80ae33b80badc2e6eaa3f74849fb05d5a26036c.css?body=1" for ::1 at 2015-07-08 14:45:18 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 14:45:18 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 14:45:18 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 14:45:18 -0400
+
+
+Started GET "/assets/new.self-454b12f5bb49340f2f541678dc0248b5c89b50a023452eb4778b45d83a9af4aa.js?body=1" for ::1 at 2015-07-08 14:45:18 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 14:45:18 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:45:28 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 463ms (Views: 121.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 14:45:28 -0400
+
+
+Started GET "/assets/application.self-85aff8daa88dfc50ae71e0c5d80ae33b80badc2e6eaa3f74849fb05d5a26036c.css?body=1" for ::1 at 2015-07-08 14:45:28 -0400
+
+
+Started GET "/assets/new.self-a96089c029bd7c53eb7583a1aebbdcfa2c2e8634cfaec41bf73daf4f10a46c6f.js?body=1" for ::1 at 2015-07-08 14:45:28 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 14:45:28 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 14:45:28 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 14:45:28 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:45:52 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 471ms (Views: 132.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 14:45:53 -0400
+
+
+Started GET "/assets/new.self-8694662790335e85ed3e11d9cc5800c67506a4f3adef69f23a024c6bfe9c07da.js?body=1" for ::1 at 2015-07-08 14:45:53 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 14:45:53 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 14:45:53 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 14:45:53 -0400
+
+
+Started GET "/assets/application.self-85aff8daa88dfc50ae71e0c5d80ae33b80badc2e6eaa3f74849fb05d5a26036c.css?body=1" for ::1 at 2015-07-08 14:45:53 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:46:01 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 507ms (Views: 33.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-85aff8daa88dfc50ae71e0c5d80ae33b80badc2e6eaa3f74849fb05d5a26036c.css?body=1" for ::1 at 2015-07-08 14:46:01 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 14:46:02 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 14:46:02 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 14:46:02 -0400
+
+
+Started GET "/assets/new.self-4e9e2c333bc3bd2777c08ccb38fd828e8c2513f27eb3bff40a88233a123ca5d6.js?body=1" for ::1 at 2015-07-08 14:46:02 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 14:46:02 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:46:56 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 913ms (Views: 71.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-33773dc948ac162354fbf509a711568d8aae3888e1f58ec05e750b9071cbe4c5.css?body=1" for ::1 at 2015-07-08 14:46:57 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 14:46:57 -0400
+
+
+Started GET "/assets/new.self-4e9e2c333bc3bd2777c08ccb38fd828e8c2513f27eb3bff40a88233a123ca5d6.js?body=1" for ::1 at 2015-07-08 14:46:57 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 14:46:57 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 14:46:57 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 14:46:57 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:47:02 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 354ms (Views: 59.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 14:47:03 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 14:47:03 -0400
+
+
+Started GET "/assets/application.self-56533799ed3b6a2d444e3209136ec688395974da8697ae61269ceb40d18a7a27.css?body=1" for ::1 at 2015-07-08 14:47:03 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 14:47:03 -0400
+
+
+Started GET "/assets/new.self-4e9e2c333bc3bd2777c08ccb38fd828e8c2513f27eb3bff40a88233a123ca5d6.js?body=1" for ::1 at 2015-07-08 14:47:03 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 14:47:03 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:47:07 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 326ms (Views: 49.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 14:47:07 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 14:47:07 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 14:47:07 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 14:47:07 -0400
+
+
+Started GET "/assets/application.self-e3938499ca69b0fc5faeb837b746446ddf053a58a3a32dc7023e35d52569c7fa.css?body=1" for ::1 at 2015-07-08 14:47:07 -0400
+
+
+Started GET "/assets/new.self-4e9e2c333bc3bd2777c08ccb38fd828e8c2513f27eb3bff40a88233a123ca5d6.js?body=1" for ::1 at 2015-07-08 14:47:07 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:47:12 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 389ms (Views: 35.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 14:47:13 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 14:47:13 -0400
+
+
+Started GET "/assets/application.self-56533799ed3b6a2d444e3209136ec688395974da8697ae61269ceb40d18a7a27.css?body=1" for ::1 at 2015-07-08 14:47:13 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 14:47:13 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 14:47:13 -0400
+
+
+Started GET "/assets/new.self-4e9e2c333bc3bd2777c08ccb38fd828e8c2513f27eb3bff40a88233a123ca5d6.js?body=1" for ::1 at 2015-07-08 14:47:13 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:47:22 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 391ms (Views: 33.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-85aff8daa88dfc50ae71e0c5d80ae33b80badc2e6eaa3f74849fb05d5a26036c.css?body=1" for ::1 at 2015-07-08 14:47:23 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 14:47:23 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 14:47:23 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 14:47:23 -0400
+
+
+Started GET "/assets/new.self-4e9e2c333bc3bd2777c08ccb38fd828e8c2513f27eb3bff40a88233a123ca5d6.js?body=1" for ::1 at 2015-07-08 14:47:23 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 14:47:23 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:48:22 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 585ms (Views: 51.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-fece7314b66dddc035dda0f9193b6493298e1bb8c69b14c0c0d2b6a06c2e088d.css?body=1" for ::1 at 2015-07-08 14:48:22 -0400
+
+
+Started GET "/assets/new.self-4e9e2c333bc3bd2777c08ccb38fd828e8c2513f27eb3bff40a88233a123ca5d6.js?body=1" for ::1 at 2015-07-08 14:48:22 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 14:48:22 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 14:48:22 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 14:48:22 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 14:48:22 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:48:29 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 376ms (Views: 58.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-05f80e4a1355b3436113ec34fc6b2e943a4c2c01f60b12a830549fb264a015a7.css?body=1" for ::1 at 2015-07-08 14:48:30 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 14:48:30 -0400
+
+
+Started GET "/assets/new.self-4e9e2c333bc3bd2777c08ccb38fd828e8c2513f27eb3bff40a88233a123ca5d6.js?body=1" for ::1 at 2015-07-08 14:48:30 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 14:48:30 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 14:48:30 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 14:48:30 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:48:47 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 300ms (Views: 48.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b8097130049dbc479bb88e0ee7bcde44335cc79dc82625dba0b47fa21be259e0.css?body=1" for ::1 at 2015-07-08 14:48:47 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 14:48:47 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 14:48:47 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 14:48:47 -0400
+
+
+Started GET "/assets/new.self-4e9e2c333bc3bd2777c08ccb38fd828e8c2513f27eb3bff40a88233a123ca5d6.js?body=1" for ::1 at 2015-07-08 14:48:47 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 14:48:47 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=45201&commit=Search" for ::1 at 2015-07-08 14:49:01 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"45201", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 313ms (Views: 47.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-3d35750115ed3203241cee353ec430489760c70cd7fc6e38fed38d27c33abb14.css?body=1" for ::1 at 2015-07-08 14:49:01 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 14:49:01 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 14:49:01 -0400
+
+
+Started GET "/assets/new.self-4e9e2c333bc3bd2777c08ccb38fd828e8c2513f27eb3bff40a88233a123ca5d6.js?body=1" for ::1 at 2015-07-08 14:49:01 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 14:49:01 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 14:49:01 -0400
+
+
+Started GET "/assets/beautiful-day.jpg" for ::1 at 2015-07-08 14:49:01 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=20009&commit=Search" for ::1 at 2015-07-08 14:53:32 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"20009", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 645ms (Views: 54.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=20009&commit=Search" for ::1 at 2015-07-08 14:58:18 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"20009", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 507ms (Views: 108.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-2c5412c29dfbfd4169594dbefb007c997b16bb82412bdf477798681910421eb1.css?body=1" for ::1 at 2015-07-08 14:58:19 -0400
+
+
+Started GET "/assets/beautiful-day.jpg" for ::1 at 2015-07-08 14:58:19 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=20009&commit=Search" for ::1 at 2015-07-08 15:07:08 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"20009", "commit"=>"Search"}
+  Rendered forecasts/new.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 745ms (Views: 187.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/search.self-70a6babc89d045d6bd5a2e330480470aa8c7b864009b1842b9347ce097fa8174.js?body=1" for ::1 at 2015-07-08 15:07:08 -0400
+
+
+Started GET "/assets/beautiful-day.jpg" for ::1 at 2015-07-08 15:07:09 -0400
+
+
+Started GET "/" for ::1 at 2015-07-08 15:09:18 -0400
+Processing by ForecastsController#index as HTML
+  Rendered forecasts/index.html.erb within layouts/application (27.2ms)
+Completed 200 OK in 175ms (Views: 169.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/search.self-70a6babc89d045d6bd5a2e330480470aa8c7b864009b1842b9347ce097fa8174.js?body=1" for ::1 at 2015-07-08 15:09:18 -0400
+
+
+Started GET "/assets/new.self-4e9e2c333bc3bd2777c08ccb38fd828e8c2513f27eb3bff40a88233a123ca5d6.js?body=1" for ::1 at 2015-07-08 15:09:18 -0400
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for ::1 at 2015-07-08 15:09:18 -0400
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for ::1 at 2015-07-08 15:09:18 -0400
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for ::1 at 2015-07-08 15:09:18 -0400
+
+
+Started GET "/assets/jquery_ujs.self-ca5248a2fad13d6bd58ea121318d642f195f0b2dd818b30615f785ff365e8d1f.js?body=1" for ::1 at 2015-07-08 15:09:18 -0400
+
+
+Started GET "/assets/application.self-2c5412c29dfbfd4169594dbefb007c997b16bb82412bdf477798681910421eb1.css?body=1" for ::1 at 2015-07-08 15:09:18 -0400
+
+
+Started GET "/assets/cherry%20blossoms.jpg" for ::1 at 2015-07-08 15:09:18 -0400
+
+
+Started GET "/forecasts/new?utf8=%E2%9C%93&id=&commit=Search" for ::1 at 2015-07-08 15:09:19 -0400
+Processing by ForecastsController#new as HTML
+  Parameters: {"utf8"=>"✓", "id"=>"", "commit"=>"Search"}
+Completed 500 Internal Server Error in 1363ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/forecasts_controller.rb:24:in `new'
+
+
+  Rendered /Users/damonemde/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.8ms)
+  Rendered /Users/damonemde/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendered /Users/damonemde/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /Users/damonemde/.rvm/gems/ruby-2.2.0/gems/actionpack-4.2.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (58.4ms)
+  Rendered /Users/damonemde/.rvm/gems/ruby-2.2.0/gems/web-console-2.1.3/lib/web_console/templates/_markup.html.erb (0.6ms)
+  Rendered /Users/damonemde/.rvm/gems/ruby-2.2.0/gems/web-console-2.1.3/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/damonemde/.rvm/gems/ruby-2.2.0/gems/web-console-2.1.3/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (1.4ms)
+  Rendered /Users/damonemde/.rvm/gems/ruby-2.2.0/gems/web-console-2.1.3/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/damonemde/.rvm/gems/ruby-2.2.0/gems/web-console-2.1.3/lib/web_console/templates/console.js.erb within layouts/javascript (51.9ms)
+  Rendered /Users/damonemde/.rvm/gems/ruby-2.2.0/gems/web-console-2.1.3/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/damonemde/.rvm/gems/ruby-2.2.0/gems/web-console-2.1.3/lib/web_console/templates/error_page.js.erb within layouts/javascript (1.0ms)
+  Rendered /Users/damonemde/.rvm/gems/ruby-2.2.0/gems/web-console-2.1.3/lib/web_console/templates/index.html.erb (122.7ms)

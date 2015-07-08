@@ -22,6 +22,7 @@
   left:0px;
   text-align: center;
   background-image: url('beautiful-day.jpg');
+  filter:contrast(80%);
   color: white;
 }
 
