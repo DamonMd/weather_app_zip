@@ -1,0 +1,50 @@
+
+<div class="search">
+<h2>Welcome to Your Local Weather Generator!</h2>
+<h3>Simply enter in the zip code of the location you wish to know more about</h3>
+
+
+
+<!-- <div class = "search">
+  <form action="/forecasts/:id" method="get">
+    <label for="zip">Enter your Zip Code Here:</label>
+    <input id="input" name="id" placeholder="ex: 20009"></input>
+    <input type="submit" value="Get Forecast">
+  </form>
+</div> -->
+
+<%= form_tag("/forecasts/new", method: "get") do %>
+  <%= label_tag(:id, "Zip:") %>
+  <%= text_field_tag(:id) %>
+  <%= submit_tag("Search") %>
+<% end %>
+
+</div>
+
+
+<script>
+var temperature_one
+var temperature_two
+
+var baseUrl = 'api.openweathermap.org/data/2.5/weather?zip='
+var countryCode = ',us'
+document.querySelector("#submit").addEventListener('click', function(e){
+  e.preventDefault()
+  var zipCode = document.querySelector("#input").value
+  var searchUrl = 'http://api.openweathermap.org/data/2.5/weather?zip=' + zipCode + ',us'
+  $.ajax({
+    url: searchUrl,
+    type: 'GET',
+    dataType: 'json'
+  }).done(function(response){
+    console.log(response.main)
+  }).fail(function(){
+    console.log("ajax request not successful")
+  })
+
+
+  function get_average(temp1, temp2){
+    return (temp1 + temp2) / 2
+  }
+
+</script>
